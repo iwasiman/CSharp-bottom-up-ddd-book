@@ -1,0 +1,10 @@
+EF/ // 技術基盤にEntity Frameworkを使ったクラス群
+  Circles/
+    // リポジトリ、対象ドメインオブジェクトのFactory
+  Users/
+    // 同様
+InMemory/ // テスト用にメモリ上に保存するだけのクラス群
+  Circles/
+    // 同様
+  Users/
+    // 同様

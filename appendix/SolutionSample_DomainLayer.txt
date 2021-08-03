@@ -1,0 +1,11 @@
+Domain/ // 実際には境界づけられたコンテキストの名前になる
+  Models/
+    Circles/ 
+      // ここに値オブジェクト、エンティティ、
+      // リポジトリやファクトリのインターフェース、仕様クラスも
+    Users/
+      // 同様
+  Services/
+    // UserServiceのようなドメインサービス
+  Shared/ 
+   // ISpecification のような他のプロジェクトでも共用できるもの

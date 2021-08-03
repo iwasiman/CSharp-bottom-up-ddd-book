@@ -1,0 +1,5 @@
+Application/
+  Circles/
+    // アプリケーションサービス、Commandクラス、Resultクラス、DTOなCircleDataなど
+  Users/
+    // 同様
